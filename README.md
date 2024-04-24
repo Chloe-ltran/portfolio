@@ -20,9 +20,12 @@ M.S., Statistics | California State University, Eastbay
 
 ### Experience
 
-[Commerce](http://www.example.com){: style="background-color: #007bff; color: #ffffff; padding: 20px 20px; border-radius: 40px; text-decoration: none;"}
+()
+[Commerce](http://www.example.com){: style="background-color: #007bff; color: #ffffff; padding: 20px 20px; border-radius: 20px; text-decoration: none;"}
+()
+[Health](http://www.example.com){: style="background-color: #007bff; color: #ffffff; padding: 20px 20px; border-radius: 20px; text-decoration: none;"}
 
-[Health](http://www.example.com){: style="background-color: #007bff; color: #ffffff; padding: 20px 20px; border-radius: 40px; text-decoration: none;"}
+()
 #### Projects
 - **Employee Attrition Prediction Using Machine Learning.**
     - Method: • Python • sklearn • Matplotlib • Train a machine learning model to predict which employee are more likely to quit based on their features (job involvement, education, job satisfaction, Performance rating, relationship Satisfaction, Work Life Balance)
