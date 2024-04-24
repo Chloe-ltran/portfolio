@@ -23,8 +23,13 @@ M.S., Statistics | California State University, Eastbay
 <br>
 [Commerce](http://www.example.com){: style="background-color: #4169E1; color: #ffffff; padding: 20px 20px; border-radius: 20px; text-decoration: none;"}
 <br>
+<br>
+<br>
+<br>
+
 [Health](http://www.example.com){: style="background-color: #4169E1; color: #ffffff; padding: 20px 20px; border-radius: 20px; text-decoration: none;"}
 <br>
+
 
 #### Projects
 - **Employee Attrition Prediction Using Machine Learning.**
