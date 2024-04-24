@@ -19,6 +19,10 @@ M.S., Statistics | California State University, Eastbay
 -  BigQuery by Google Cloud.
 
 ### Experience
+
+["I assisted business owners in maximizing their profits and enhancing operational efficiency."](http://www.example.com){: style="background-color: #007bff; color: #ffffff; padding: 10px 20px; border-radius: 5px; text-decoration: none;"}
+
+
 #### Projects
 - **Employee Attrition Prediction Using Machine Learning.**
     - Method: • Python • sklearn • Matplotlib • Train a machine learning model to predict which employee are more likely to quit based on their features (job involvement, education, job satisfaction, Performance rating, relationship Satisfaction, Work Life Balance)
