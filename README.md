@@ -20,11 +20,11 @@ M.S., Statistics | California State University, Eastbay
 
 ### Experience
 
-
-[Commerce](http://www.example.com){: style="background-color: #4682B4; color: #ffffff; padding: 20px 20px; border-radius: 20px; text-decoration: none; margin-top: 100px; margin-bottom: 100px;"}
-
-[Health](http://www.example.com){: style="background-color: #4682B4; color: #ffffff; padding: 20px 20px; border-radius: 20px; text-decoration: none; margin-top: 100px; margin-bottom: 100px;"}
-
+<br>
+[Commerce](http://www.example.com){: style="background-color: #4169E1; color: #ffffff; padding: 20px 20px; border-radius: 20px; text-decoration: none;"}
+<br>
+[Health](http://www.example.com){: style="background-color: #4169E1; color: #ffffff; padding: 20px 20px; border-radius: 20px; text-decoration: none;"}
+<br>
 
 #### Projects
 - **Employee Attrition Prediction Using Machine Learning.**
