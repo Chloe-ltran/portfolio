@@ -21,9 +21,9 @@ M.S., Statistics | California State University, Eastbay
 ### Experience
 
 
-[Commerce](http://www.example.com){: style="background-color: #1d76db; color: #ffffff; padding: 20px 20px; border-radius: 20px; text-decoration: none; margin-top: 20px; margin-bottom: 20px;"}
+[Commerce](http://www.example.com){: style="background-color: #4682B4; color: #ffffff; padding: 20px 20px; border-radius: 20px; text-decoration: none; margin-top: 100px; margin-bottom: 100px;"}
 
-[Health](http://www.example.com){: style="background-color: #1d76db; color: #ffffff; padding: 20px 20px; border-radius: 20px; text-decoration: none; margin-top: 20px; margin-bottom: 20px;"}
+[Health](http://www.example.com){: style="background-color: #4682B4; color: #ffffff; padding: 20px 20px; border-radius: 20px; text-decoration: none; margin-top: 100px; margin-bottom: 100px;"}
 
 
 #### Projects
