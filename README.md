@@ -1,3 +1,5 @@
+![](https://avatars.githubusercontent.com/u/130880425?s=400&u=dfb3649b98f9166fc130692370bae275d5bda2ca&v=4)
+
 # Data Scientist
 Technical Skills: Python, R, PostgreSQL, SQL, Tableau, RShiny, Streamlit, Machine Learning, Natural Language Processing
 Operating Systems: Microsoft Windows, Mac OS, Linux
