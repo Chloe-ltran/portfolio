@@ -1,4 +1,5 @@
-![](https://avatars.githubusercontent.com/u/130880425?s=400&u=dfb3649b98f9166fc130692370bae275d5bda2ca&v=4)
+
+<img src="https://avatars.githubusercontent.com/u/130880425?s=400&u=dfb3649b98f9166fc130692370bae275d5bda2ca&v=4" width="200">
 
 # Data Scientist
 
@@ -21,13 +22,9 @@ M.S., Statistics | California State University, Eastbay
 ### Experience
 
 <br>
-[Commerce](http://www.example.com){: style="background-color: #4169E1; color: #ffffff; padding: 20px 20px; border-radius: 20px; text-decoration: none;"}
-<br>
-<br>
-<br>
-<br>
+[Commerce](http://www.example.com){: style="background-color: #6495ED; color: #ffffff; padding: 20px 20px; border-radius: 5px; text-decoration: none;"} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-[Health](http://www.example.com){: style="background-color: #4169E1; color: #ffffff; padding: 20px 20px; border-radius: 20px; text-decoration: none;"}
+[Health](http://www.example.com){: style="background-color: #6495ED; color: #ffffff; padding: 20px 20px; border-radius: 5px; text-decoration: none;"}
 <br>
 
 
