@@ -20,7 +20,7 @@ M.S., Statistics | California State University, Eastbay
 
 ### Experience
 
-["I assisted business owners in maximizing their profits and enhancing operational efficiency."](http://www.example.com){: style="background-color: #007bff; color: #ffffff; padding: 20px 20px; border-radius: 5px; text-decoration: none;"}
+[Commerce](http://www.example.com){: style="background-color: #007bff; color: #ffffff; padding: 20px 20px; border-radius: 5px; text-decoration: none;"}
 
 
 #### Projects
