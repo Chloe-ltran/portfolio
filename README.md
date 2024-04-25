@@ -3,7 +3,7 @@
 
 # Data Scientist
 
-### About me
+## About me
 
 "I'm deeply passionate about data science, where my love for problem-solving meets my fascination with technology. I'm drawn to the field's interdisciplinary nature and its potential to drive informed decisions across industries. Beyond technical analysis, I'm particularly excited about the storytelling aspect of data science, believing it adds a human touch to data insights. I'm committed to leveraging my skills to tackle real-world challenges and contribute to societal progress through data-driven decision-making."
 
@@ -12,16 +12,16 @@
 
 **Operating Systems:** Microsoft Windows, Mac OS, Linux
 
-### Education
+## Education
 M.S., Statistics | California State University, Eastbay
 
 **Certifications:** 
 -  Snowflake – The Complete Masterclass, Databases and SQL for Data Science by IBM,
 -  BigQuery by Google Cloud.
 
-### Experience
+## Experience
 
-#### Projects
+### Projects
 
 <br>
 [Commerce](http://www.example.com){: style="background-color: #6495ED; color: #ffffff; padding: 20px 20px; border-radius: 5px; text-decoration: none;"} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Health](http://www.example.com){: style="background-color: #6495ED; color: #ffffff; padding: 20px 20px; border-radius: 5px; text-decoration: none;"}
@@ -48,7 +48,7 @@ M.S., Statistics | California State University, Eastbay
 - **Researched and analyzed the opening and closing of business in San Francisco.** CSU Eastbay                                         
     - Method: • Wrangling • GGPLOT2 • Map the locations • Flexdashboard • Tableau.
 
-#### Additional Experience
+### Additional Experience
 - Accountant, KNT Manufacturing, Newark, California (8/2021 – 1/2024)
   - Used QuickBooks to schedule payment for production materials, tools, maintenance, outside services with more than 40 vendors and more than 150 invoices per week according to term and cash flow.
 
