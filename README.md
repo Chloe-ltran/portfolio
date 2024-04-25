@@ -1,6 +1,6 @@
 <div style="display: flex;">
     <!-- Column for the image -->
-    <div style="flex: 1;">
+    <div style="flex: 1; margin-right: 20px;">
         <!-- Replace "URL_OF_YOUR_IMAGE_HERE" with the actual URL of your image -->
         <img src="https://avatars.githubusercontent.com/u/130880425?s=400&u=dfb3649b98f9166fc130692370bae275d5bda2ca&v=4" alt="Your Image" style="max-width: 100%;">
     </div>
