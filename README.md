@@ -1,3 +1,20 @@
+<div style="display: flex;">
+    <!-- Column for the image -->
+    <div style="flex: 1;">
+        <!-- Replace "URL_OF_YOUR_IMAGE_HERE" with the actual URL of your image -->
+        <img src="https://avatars.githubusercontent.com/u/130880425?s=400&u=dfb3649b98f9166fc130692370bae275d5bda2ca&v=4" alt="Your Image" style="max-width: 100%;">
+    </div>
+    <!-- Column for the "about me" content -->
+    <div style="flex: 1;">
+        <h2>About Me</h2>
+        <p>
+            "I'm deeply passionate about data science, where my love for problem-solving meets my fascination with technology. I'm drawn to the field's interdisciplinary nature and its potential to drive informed decisions across industries. Beyond technical analysis, I'm particularly excited about the storytelling aspect of data science, believing it adds a human touch to data insights. I'm committed to leveraging my skills to tackle real-world challenges and contribute to societal progress through data-driven decision-making."
+        </p>
+    </div>
+</div>
+
+
+
 
 <img src="https://avatars.githubusercontent.com/u/130880425?s=400&u=dfb3649b98f9166fc130692370bae275d5bda2ca&v=4" width="200">
 
