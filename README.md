@@ -48,6 +48,7 @@ M.S., Statistics | California State University, Eastbay
 - **Researched and analyzed the opening and closing of business in San Francisco.** CSU Eastbay                                         
     - Method: • Wrangling • GGPLOT2 • Map the locations • Flexdashboard • Tableau.
 
+#### Additional Experience
 - Accountant, KNT Manufacturing, Newark, California (8/2021 – 1/2024)
   - Used QuickBooks to schedule payment for production materials, tools, maintenance, outside services with more than 40 vendors and more than 150 invoices per week according to term and cash flow.
 
