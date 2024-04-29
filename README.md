@@ -56,7 +56,7 @@ M.S., Statistics | California State University, Eastbay
 - **Researched and analyzed the flights from Bay Area airports: SFO, SJC, OAK.** CSU Eastbay                                         
     - Method: • Cleaned data by wrangling, removed null values and unified the name of manufacturers, airports • Made the data readable by creating tidy table • Visualized data by Ggplot2.
 
-- **Researched and analyzed the opening and closing of business in San Francisco.** CSU Eastbay                                         
+- **Researched and analyzed the opening and closing of businesses in San Francisco.** CSU Eastbay                                         
     - Method: • Wrangling • GGPLOT2 • Map the locations • Flexdashboard • Tableau.
 
 ### Additional Experience
