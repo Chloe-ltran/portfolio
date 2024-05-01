@@ -29,13 +29,7 @@
   </div>
   
   <div class="content">
-    {{ content }}
-  </div>
-</body>
-</html>
-
-
-
+    
 
 # Data Scientist
 
@@ -88,3 +82,9 @@ M.S., Statistics | California State University, Eastbay
   - Compiled, sorted, and verified the accuracy of data before it was entered to system.
   - Plotted histograms, bar graphs, line graphs, time series graph by using R to visualize the quality, failure rate of products to customers. 
   - Generated progress of production report from the system to excel files. Performed ad-hoc tasks assigned by quality assurance analysts.
+  </div>
+</body>
+</html>
+
+
+
