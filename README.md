@@ -21,9 +21,9 @@
   <div class="sidebar">
     <!-- Table of contents or sidebar navigation menu -->
     <ul>
-      <li><a href="# Data Scientist">Data Scientist</a></li>
-      <li><a href="## Experience">Experience</a></li>
-      <li><a href="### Additional Experience">Additional Experience</a></li>
+      <li><a href="#Data-Scientist">Data Scientist</a></li>
+      <li><a href="#Experience">Experience</a></li>
+      <li><a href="#Additional-Experience">Additional Experience</a></li>
       <li><a href="#contact">Contact</a></li>
     </ul>
   </div>
@@ -36,7 +36,7 @@
 
 
 
-# Data Scientist
+# Data Scientist {#Data-Scientist}
 
 ---
 **Technical Skills:** Python, R, PostgreSQL, SQL, Tableau, RShiny, Streamlit, Machine Learning, Natural Language Processing
@@ -50,7 +50,7 @@ M.S., Statistics | California State University, Eastbay
 -  Snowflake – The Complete Masterclass, Databases and SQL for Data Science by IBM,
 -  BigQuery by Google Cloud.
 
-## Experience
+## Experience {#Experience}
 
 ### Projects
 
@@ -79,7 +79,7 @@ M.S., Statistics | California State University, Eastbay
 - **Researched and analyzed the opening and closing of businesses in San Francisco.** CSU Eastbay                                         
     - Method: • Wrangling • GGPLOT2 • Map the locations • Flexdashboard • Tableau.
 
-### Additional Experience
+### Additional Experience {#Additional-Experience}
 - Accountant, KNT Manufacturing, Newark, California (8/2021 – 1/2024)
   - Used QuickBooks to schedule payment for production materials, tools, maintenance, outside services with more than 40 vendors and more than 150 invoices per week according to term and cash flow.
 
