@@ -35,7 +35,7 @@ M.S., Statistics | California State University, Eastbay
 ### Projects
 
 <br>
-[Commerce](http://www.example.com){: style="background-color: #6495ED; color: #ffffff; padding: 20px 20px; border-radius: 5px; text-decoration: none;"} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Health](http://www.example.com){: style="background-color: #6495ED; color: #ffffff; padding: 20px 20px; border-radius: 5px; text-decoration: none;"}
+[Commerce](https://chloe-ltran.github.io/Commerce/){: style="background-color: #6495ED; color: #ffffff; padding: 20px 20px; border-radius: 5px; text-decoration: none;"} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Health](http://www.example.com){: style="background-color: #6495ED; color: #ffffff; padding: 20px 20px; border-radius: 5px; text-decoration: none;"}
 
 <br>
 
