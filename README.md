@@ -12,7 +12,11 @@
         </p>
     </div>
 </div>
-
+## Table of Contents
+- [Introduction](#introduction)
+- [Projects](#projects)
+- [Experience](#experience)
+- [Contact](#contact)
 
 
 
