@@ -12,11 +12,28 @@
         </p>
     </div>
 </div>
-## Table of Contents
-- [Introduction](#introduction)
-- [Projects](#projects)
-- [Experience](#experience)
-- [Contact](#contact)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Meta tags, title, stylesheets, etc. -->
+</head>
+<body>
+  <div class="sidebar">
+    <!-- Table of contents or sidebar navigation menu -->
+    <ul>
+      <li><a href="#introduction">Introduction</a></li>
+      <li><a href="#projects">Projects</a></li>
+      <li><a href="#experience">Experience</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </div>
+  
+  <div class="content">
+    {{ content }}
+  </div>
+</body>
+</html>
+
 
 
 
