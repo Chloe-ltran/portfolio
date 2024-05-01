@@ -21,9 +21,9 @@
   <div class="sidebar">
     <!-- Table of contents or sidebar navigation menu -->
     <ul>
-      <li><a href="# Data Scientist">Introduction</a></li>
-      <li><a href="## Experience">Projects</a></li>
-      <li><a href="### Additional Experience">Experience</a></li>
+      <li><a href="# Data Scientist">Data Scientist</a></li>
+      <li><a href="## Experience">Experience</a></li>
+      <li><a href="### Additional Experience">Additional Experience</a></li>
       <li><a href="#contact">Contact</a></li>
     </ul>
   </div>
