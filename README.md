@@ -39,7 +39,7 @@ M.S., Statistics | California State University, Eastbay
 
 
 
-- **Employee Attrition Prediction Using Machine Learning.**
+- [**Employee Attrition Prediction Using Machine Learning.**](https://chloe-ltran.github.io/Employee-Attrition-Prediction/)
     - Method: • Python • sklearn • Matplotlib • Train a machine learning model to predict which employee are more likely to quit based on their features (job involvement, education, job satisfaction, Performance rating, relationship Satisfaction, Work Life Balance)
 
 - **Compare Models with Experiments in Azure ML studio.**
@@ -48,13 +48,13 @@ M.S., Statistics | California State University, Eastbay
 - **GenAI For Business Analysis: Fine-Tuning LLMs**
     - Method: • APIs • Fine-tune GPT 3.5 • Prepared the training data • Evaluated model • Deployed the model
 
-- **Researched factors which influence Babies’ Birth Weight and Birth weight prediction.** CSU Eastbay                           
+- [**Researched factors which influence Babies’ Birth Weight and Birth weight prediction.** CSU Eastbay](https://chloe-ltran.github.io/Birth-weight-prediction/)                          
     - Method: • Reduced, compared, and fit the model • Checked assumptions, multicollinearity, interactions between variables • Transformed data, investigated outliers• Visualization and prediction. 
 
-- **Researched and analyzed the flights from Bay Area airports: SFO, SJC, OAK.** CSU Eastbay                                         
+- [**Researched and analyzed the flights from Bay Area airports: SFO, SJC, OAK.** CSU Eastbay](https://chloe-ltran.github.io/flights-Bay-Area/)                                       
     - Method: • Cleaned data by wrangling, removed null values and unified the name of manufacturers, airports • Made the data readable by creating tidy table • Visualized data by Ggplot2.
 
-- **Researched and analyzed the opening and closing of businesses in San Francisco.** CSU Eastbay                                         
+- [**Researched and analyzed the opening and closing of businesses in San Francisco.** CSU Eastbay](https://chloe-ltran.github.io/Businesses-in-San-Francisco/)                                        
     - Method: • Wrangling • GGPLOT2 • Map the locations • Flexdashboard • Tableau.
 
 ### Additional Experience 
