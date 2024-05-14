@@ -45,7 +45,7 @@ M.S., Statistics | California State University, Eastbay
 - **Compare Models with Experiments in Azure ML studio.**
     - Method: • Python • Sklearn • Matplotlib • Azureml • Linear regression • Decision tree regressor • SGD Regressor
 
-- **GenAI For Business Analysis: Fine-Tuning LLMs**
+- [**GenAI For Business Analysis: Fine-Tuning LLMs**](https://github.com/Chloe-ltran/Fine-Tuning-LLMs)
     - Method: • APIs • Fine-tune GPT 3.5 • Prepared the training data • Evaluated model • Deployed the model
 
 - [**Researched factors which influence Babies’ Birth Weight and Birth weight prediction.** CSU Eastbay](https://chloe-ltran.github.io/Birth-weight-prediction/)                          
